@@ -29,5 +29,5 @@ An easy to use reminder application to provide users with a customized experienc
 ### Resources:
 - All images and icons made by Dakota Sorenson
 - The TextView for a text field spanning multiple lines:
-  - https://github.com/SchwiftyUI/MultiLineTextView/blob/master/MultiLin eTextView/TextView.swift
+  - https://github.com/SchwiftyUI/MultiLineTextView/blob/master/MultiLineTextView/TextView.swift
 - Used tutorials and guides online for working with SwiftUI
