@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "17BAA022-07A1-445D-A9EE-9491AF0D5577"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F468DCC-3F00-418A-8C7F-CE9FC331488A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReminderApp/Views/CategoryDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "categoryIndex"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1F468DCC-3F00-418A-8C7F-CE9FC331488A - fef5279485a3d11e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Checkle.CategoryDetail.categoryIndex.getter : Swift.Int"
+                  moduleName = "Checkle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Dakota/Desktop/Multiplatform/Project%202/ReminderApp/ReminderApp/Views/CategoryDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  uuid = "1F468DCC-3F00-418A-8C7F-CE9FC331488A - 8e4d6cb1c2d649d6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Checkle.Category) -&gt; Swift.Bool in Checkle.CategoryDetail.categoryIndex.getter : Swift.Int"
+                  moduleName = "Checkle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Dakota/Desktop/Multiplatform/Project%202/ReminderApp/ReminderApp/Views/CategoryDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

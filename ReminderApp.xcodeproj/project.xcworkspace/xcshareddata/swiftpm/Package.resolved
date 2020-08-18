@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ColorPickerRing",
+        "repositoryURL": "https://github.com/hendriku/ColorPicker",
+        "state": {
+          "branch": "master",
+          "revision": "f0e8c82bd929d69cc9fcf76565d453c98d30a4c1",
+          "version": null
+        }
+      },
+      {
+        "package": "ModalView",
+        "repositoryURL": "https://github.com/diniska/modal-view",
+        "state": {
+          "branch": "master",
+          "revision": "ad7c17cbbdf0662f3defc5bfefd6d912d458d4a4",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
