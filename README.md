@@ -1,6 +1,6 @@
 # Checkle
 
-An easy to use reminder application to provide users with a customized experience for planning their tasks and activities that they need reminders for.
+An easy to use reminder application to provide users with a customized experience for planning and organizing their tasks and activities.
 
 ### Features:
 - Add reminders
