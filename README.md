@@ -26,6 +26,16 @@ An easy to use reminder application to provide users with a customized experienc
   - Tap the ‘Add’ button at the end of the categories list to add a new category
   - Hold down (long press) on a category button to edit the category (it will open a modal view), swipe down when finished editing
 
+### Demo Images
+
+Home Page            |  Reminder
+:-------------------------:|:-------------------------:
+<img src="/Demo/Checkle_Home.png" width="75%" height="75%">  |  <img src="/Demo/Checkle_Reminder.png" width="75%" height="75%">
+Category           |  Notification
+<img src="/Demo/Checkle_Category.png" width="75%" height="75%">  |  <img src="/Demo/Checkle_Notification.png" width="75%" height="75%">
+Delete           |  Edit
+<img src="/Demo/Checkle_Delete.png" width="75%" height="75%">  |  <img src="/Demo/Checkle_Edit.png" width="75%" height="75%">
+
 ### Resources:
 - All images and icons made by Dakota Sorenson
 - The TextView for a text field spanning multiple lines:
