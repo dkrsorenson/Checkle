@@ -30,11 +30,11 @@ An easy to use reminder application to provide users with a customized experienc
 
 Home Page            |  Reminder
 :-------------------------:|:-------------------------:
-<img src="/Demo/Checkle_Home.png" width="75%" height="65%">  |  <img src="/Demo/Checkle_Reminder.png" width="75%" height="65%">
+<img src="/Demo/Checkle_Home.png" width="380" height="672">  |  <img src="/Demo/Checkle_Reminder.png" width="380" height="672">
 Category           |  Notification
-<img src="/Demo/Checkle_Category.png" width="75%" height="65%">  |  <img src="/Demo/Checkle_Notification.png" width="75%" height="65%">
+<img src="/Demo/Checkle_Category.png" width="380" height="672">  |  <img src="/Demo/Checkle_Notification.png" width="380" height="672">
 Delete           |  Edit
-<img src="/Demo/Checkle_Delete.png" width="75%" height="65%">  |  <img src="/Demo/Checkle_Edit.png" width="75%" height="65%">
+<img src="/Demo/Checkle_Delete.png" width="380" height="672">  |  <img src="/Demo/Checkle_Edit.png" width="380" height="672">
 
 ### Resources:
 - All images and icons made by Dakota Sorenson
